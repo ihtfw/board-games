@@ -1,0 +1,45 @@
+{
+	"width_mm": 40,
+	"height_mm": 40,
+	"dpi": 300,
+	"spacing_mm": {
+		"x": 1,
+		"y": 1
+	},
+	"mega-boss": {
+		"file": "mega-boss.png",
+		"count": 1
+	},
+	"mini-boss": {
+		"file": "mini-boss.png",
+		"count": 6
+	},
+	"monster": {
+		"file": "monster.png",
+		"count": 16
+	},
+	"enterance": {
+		"file": "enterance.jpg",
+		"count": 1
+	},
+	"heart": {
+		"file": "heart.jpg",
+		"count": 4
+	},
+	"hole": {
+		"file": "hole.jpg",
+		"count": 4
+	},
+	"empty": {
+		"file": "empty.png",
+		"count": 8
+	},
+	"pipe_leak": {
+		"file": "pipe_leak.jpg",
+		"count": 6
+	},
+	"casino": {
+		"file": "casino.png",
+		"count": 6
+	}
+}
